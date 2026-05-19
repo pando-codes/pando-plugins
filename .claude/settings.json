@@ -1,0 +1,11 @@
+{
+  "extraKnownMarketplaces": {
+    "pando-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "pando-codes/pando-plugins"
+      }
+    }
+  },
+  "enabledPlugins": {}
+}

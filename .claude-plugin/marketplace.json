@@ -1,0 +1,14 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "pando-plugins",
+  "description": "Pando's internal Claude Code plugin marketplace",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Pando",
+    "email": "alex@pando.codes"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
