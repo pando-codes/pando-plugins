@@ -10,5 +10,22 @@
   "metadata": {
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "trenchcoat",
+      "displayName": "Trenchcoat",
+      "description": "Observability layer for Claude Code Agents — captures tool, agent, session, and prompt activity as JSONL for local-first analytics and team analytics",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alexatpando/trenchcoat.git",
+        "path": "Engineering/trenchcoat-app/claude-plugin"
+      },
+      "author": {
+        "name": "Alex Noboa",
+        "email": "alex@pando.codes"
+      },
+      "category": "observability",
+      "keywords": ["observability", "telemetry", "analytics", "logging"]
+    }
+  ]
 }
