@@ -17,8 +17,8 @@
       "description": "Observability layer for Claude Code Agents — captures tool, agent, session, and prompt activity as JSONL for local-first analytics and team analytics",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/alexatpando/trenchcoat.git",
-        "path": "Engineering/trenchcoat-app/claude-plugin"
+        "url": "https://github.com/pando-codes/trenchcoat.git",
+        "path": "claude-plugin"
       },
       "author": {
         "name": "Alex Noboa",
