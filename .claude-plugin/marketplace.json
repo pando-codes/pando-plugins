@@ -14,18 +14,22 @@
     {
       "name": "trenchcoat",
       "displayName": "Trenchcoat",
-      "description": "Observability layer for Claude Code Agents — captures tool, agent, session, and prompt activity as JSONL for local-first analytics and team analytics",
+      "description": "Observability layer for Claude Code Agents \u2014 captures tool, agent, session, and prompt activity as JSONL for local-first analytics and team analytics",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/pando-codes/trenchcoat.git",
-        "path": "claude-plugin"
+        "source": "github",
+        "repo": "pando-codes/trenchcoat-plugin"
       },
       "author": {
         "name": "Alex Noboa",
         "email": "alex@pando.codes"
       },
       "category": "observability",
-      "keywords": ["observability", "telemetry", "analytics", "logging"]
+      "keywords": [
+        "observability",
+        "telemetry",
+        "analytics",
+        "logging"
+      ]
     }
   ]
 }
