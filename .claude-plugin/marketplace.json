@@ -36,8 +36,10 @@
       "displayName": "Superdev",
       "description": "Turn ideas into working code through a brainstorm, plan, execute, and evaluate workflow — recording User Stories, Features, and Acceptance Criteria as catalog records — and let agents pull that work back out one well-defined, role-scoped item at a time. Follows the principles of ATDD and the Agile SDLC",
       "source": {
-        "source": "git",
-        "url": "https://github.com/pando-codes/superdev-plugin.git"
+        "source": "git-subdir",
+        "url": "https://github.com/pando-codes/superdev-plugin.git",
+        "path": "plugin",
+        "ref": "main"
       },
       "author": {
         "name": "Alex Noboa",
